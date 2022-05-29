@@ -4,7 +4,6 @@
   </a>
 </p>
 
-# made-with-love-by-imagineee
 A cool set of pins that can be put on my project to show 'Made with ❤ by Imagineee'
 
 The set of name you can use:
